@@ -1,3 +1,6 @@
+"""[lru_cache - how cache unperformance function]
+[Author: prakasa<prakasa@devetek.com>]
+"""
 import timeit
 import functools
 
